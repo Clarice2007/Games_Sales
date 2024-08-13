@@ -1,4 +1,29 @@
 # Games_Sales
+
+Data Overview:
+The dataset used for this analysis provides detailed information on the sales and popularity of various video games across North America, Europe, Japan, and other regions worldwide. It includes scores and ratings from both critics and users, featuring metrics such as average critic score, number of critic reviews, average user score, number of user reviews, developer, and game rating. Overall, this dataset offers valuable insights into the global video game market, making it an indispensable resource for gamers, industry professionals, and market researchers.
+
+Data Preparation:
+This dataset consists of 16 columns and 16,721 rows. To ensure the data was correctly interpreted and stored in a standardized format, the CSV file was converted to UTF-8 encoding. Null and NaN values were dropped, and the cleaned data was used for the analysis that followed.
+
+Top Ten Global Sales:
+Among the top 10 global sales, Wii Sports leads, followed by Mario Kart Wii and Wii Sports Resort, all developed by Nintendo. Nintendo's dominance in the top global sales is evident, with Wii Sports taking the top spot.
+
+Platform Popularity:
+The PlayStation 2 (PS2) reached peak popularity in 2004, as indicated by the number of games released that year, followed by a steady decline. In contrast, the PlayStation 4 (PS4), introduced in 2013, has seen steady growth since its release.
+
+Correlation Analysis:
+A correlation score of 0.58 indicates a moderate positive relationship between user scores and critic scores. This suggests that, in general, as user scores increase, critic scores tend to increase as well.
+
+First Quarter Seasonal Sales:
+The year 2008 experienced the highest rise in global sales during the first quarter, followed by a gradual decline in subsequent years.
+
+Yearly Sales Trend by Region:
+By 2016, North America and Europe had become the largest markets, with similar levels of sales. Japan's share of the global market declined relatively but remained important, especially for certain types of games and handheld consoles. Other regions saw growth, particularly in later years, as gaming became a global phenomenon, driven by the rise of mobile gaming and digital distribution.
+
+
+
+
 Analysis of the Sales Heatmap by Region
 
 The sales heatmap by region provides a comprehensive visualization of the distribution of global sales across key geographic regions: North America, Europe, Japan, and other regions. This heatmap allows us to quickly identify areas with the highest concentration of sales and understand regional market dynamics.

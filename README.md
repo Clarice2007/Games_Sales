@@ -38,7 +38,7 @@ Conclusion
 
 The sales heatmap by region is an invaluable tool for visualizing and analyzing global sales distribution. It highlights the dominance of North America and Europe in global sales, the strong but focused sales presence in Japan, and the potential for growth in other regions. By leveraging these insights, companies can optimize their regional strategies, allocate resources more effectively, and identify new opportunities for market expansion. Analysis of the Predicted Sales
 
-The graph you’ve shared appears to display a time series of actual and predicted sales over a period, likely from the early 1990s to 2030. The actual sales are represented by a blue line, while the predicted sales are shown in red.
+The graph  display a time series of actual and predicted sales over a period, likely from the early 1990s to 2030. The actual sales are represented by a blue line, while the predicted sales are shown in red.
 
 1. Historical Sales Trends:
 
